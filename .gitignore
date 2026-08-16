@@ -3,6 +3,7 @@ node_modules/
 .wrangler/
 coverage/
 .env.*
+docs/
 
 
 # Byte-compiled / optimized / DLL files
