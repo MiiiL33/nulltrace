@@ -1,0 +1,8 @@
+name = "nulltrace-api"
+main = "src/api/index.ts"
+compatibility_date = "2024-03-01"
+
+[[kv_namespaces]]
+binding = "SECRETS_KV"
+id = "78b7a656ca2542faab1b25024ab239f4"
+preview_id = "1256859e22f44e7ea0f8ca568799e259"
