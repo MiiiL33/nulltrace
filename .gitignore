@@ -1,3 +1,10 @@
+# Nuestro workspace
+node_modules/
+.wrangler/
+coverage/
+.env.*
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
